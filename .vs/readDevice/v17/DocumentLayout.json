@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eli\\source\\repos\\readDevice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D33C7BF-3E54-463F-BC22-71A9F31CCC71}|readDevice.pyproj|C:\\Users\\Eli\\source\\repos\\readDevice\\device\\template\\polls\\vistaPing.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D33C7BF-3E54-463F-BC22-71A9F31CCC71}|readDevice.pyproj|solutionrelative:device\\template\\polls\\vistaPing.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D33C7BF-3E54-463F-BC22-71A9F31CCC71}|readDevice.pyproj|C:\\Users\\Eli\\source\\repos\\readDevice\\device\\api.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1D33C7BF-3E54-463F-BC22-71A9F31CCC71}|readDevice.pyproj|solutionrelative:device\\api.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D33C7BF-3E54-463F-BC22-71A9F31CCC71}|readDevice.pyproj|C:\\Users\\Eli\\source\\repos\\readDevice\\device\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1D33C7BF-3E54-463F-BC22-71A9F31CCC71}|readDevice.pyproj|solutionrelative:device\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D33C7BF-3E54-463F-BC22-71A9F31CCC71}|readDevice.pyproj|C:\\Users\\Eli\\source\\repos\\readDevice\\readDevice\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1D33C7BF-3E54-463F-BC22-71A9F31CCC71}|readDevice.pyproj|solutionrelative:readDevice\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D33C7BF-3E54-463F-BC22-71A9F31CCC71}|readDevice.pyproj|C:\\Users\\Eli\\source\\repos\\readDevice\\device\\serializers.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1D33C7BF-3E54-463F-BC22-71A9F31CCC71}|readDevice.pyproj|solutionrelative:device\\serializers.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D33C7BF-3E54-463F-BC22-71A9F31CCC71}|readDevice.pyproj|C:\\Users\\Eli\\source\\repos\\readDevice\\device\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1D33C7BF-3E54-463F-BC22-71A9F31CCC71}|readDevice.pyproj|solutionrelative:device\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D33C7BF-3E54-463F-BC22-71A9F31CCC71}|readDevice.pyproj|C:\\Users\\Eli\\source\\repos\\readDevice\\device\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1D33C7BF-3E54-463F-BC22-71A9F31CCC71}|readDevice.pyproj|solutionrelative:device\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D33C7BF-3E54-463F-BC22-71A9F31CCC71}|readDevice.pyproj|C:\\Users\\Eli\\source\\repos\\readDevice\\readDevice\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1D33C7BF-3E54-463F-BC22-71A9F31CCC71}|readDevice.pyproj|solutionrelative:readDevice\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D33C7BF-3E54-463F-BC22-71A9F31CCC71}|readDevice.pyproj|C:\\Users\\Eli\\source\\repos\\readDevice\\device\\template\\polls\\vistaDevice.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D33C7BF-3E54-463F-BC22-71A9F31CCC71}|readDevice.pyproj|solutionrelative:device\\template\\polls\\vistaDevice.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "vistaDevice.html",
+              "DocumentMoniker": "C:\\Users\\Eli\\source\\repos\\readDevice\\device\\template\\polls\\vistaDevice.html",
+              "RelativeDocumentMoniker": "device\\template\\polls\\vistaDevice.html",
+              "ToolTip": "C:\\Users\\Eli\\source\\repos\\readDevice\\device\\template\\polls\\vistaDevice.html",
+              "RelativeToolTip": "device\\template\\polls\\vistaDevice.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-26T05:58:24.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vistaPing.html",
+              "DocumentMoniker": "C:\\Users\\Eli\\source\\repos\\readDevice\\device\\template\\polls\\vistaPing.html",
+              "RelativeDocumentMoniker": "device\\template\\polls\\vistaPing.html",
+              "ToolTip": "C:\\Users\\Eli\\source\\repos\\readDevice\\device\\template\\polls\\vistaPing.html",
+              "RelativeToolTip": "device\\template\\polls\\vistaPing.html",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-26T05:59:09.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "api.py",
+              "DocumentMoniker": "C:\\Users\\Eli\\source\\repos\\readDevice\\device\\api.py",
+              "RelativeDocumentMoniker": "device\\api.py",
+              "ToolTip": "C:\\Users\\Eli\\source\\repos\\readDevice\\device\\api.py",
+              "RelativeToolTip": "device\\api.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-25T18:44:55.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "urls.py",
+              "DocumentMoniker": "C:\\Users\\Eli\\source\\repos\\readDevice\\device\\urls.py",
+              "RelativeDocumentMoniker": "device\\urls.py",
+              "ToolTip": "C:\\Users\\Eli\\source\\repos\\readDevice\\device\\urls.py",
+              "RelativeToolTip": "device\\urls.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-25T18:42:12.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "urls.py",
+              "DocumentMoniker": "C:\\Users\\Eli\\source\\repos\\readDevice\\readDevice\\urls.py",
+              "RelativeDocumentMoniker": "readDevice\\urls.py",
+              "ToolTip": "C:\\Users\\Eli\\source\\repos\\readDevice\\readDevice\\urls.py",
+              "RelativeToolTip": "readDevice\\urls.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-26T00:54:34.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "models.py",
+              "DocumentMoniker": "C:\\Users\\Eli\\source\\repos\\readDevice\\device\\models.py",
+              "RelativeDocumentMoniker": "device\\models.py",
+              "ToolTip": "C:\\Users\\Eli\\source\\repos\\readDevice\\device\\models.py",
+              "RelativeToolTip": "device\\models.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-25T18:46:03.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "views.py",
+              "DocumentMoniker": "C:\\Users\\Eli\\source\\repos\\readDevice\\device\\views.py",
+              "RelativeDocumentMoniker": "device\\views.py",
+              "ToolTip": "C:\\Users\\Eli\\source\\repos\\readDevice\\device\\views.py",
+              "RelativeToolTip": "device\\views.py",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-25T23:05:08.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "serializers.py",
+              "DocumentMoniker": "C:\\Users\\Eli\\source\\repos\\readDevice\\device\\serializers.py",
+              "RelativeDocumentMoniker": "device\\serializers.py",
+              "ToolTip": "C:\\Users\\Eli\\source\\repos\\readDevice\\device\\serializers.py",
+              "RelativeToolTip": "device\\serializers.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-25T21:33:59.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "settings.py",
+              "DocumentMoniker": "C:\\Users\\Eli\\source\\repos\\readDevice\\readDevice\\settings.py",
+              "RelativeDocumentMoniker": "readDevice\\settings.py",
+              "ToolTip": "C:\\Users\\Eli\\source\\repos\\readDevice\\readDevice\\settings.py",
+              "RelativeToolTip": "readDevice\\settings.py",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-25T18:34:07.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

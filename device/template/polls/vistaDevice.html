@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vista de Dispositivos</title>
+</head>
+<body>
+    <h1>Lista de dispositivos en la red:</h1>
+    <ul>
+        {% for dispositivo in dispositivos %}
+        <li>{{ dispositivo.ip }} - {{ dispositivo.nombre }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
